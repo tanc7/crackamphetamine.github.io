@@ -9,7 +9,7 @@ categories: red-teaming cybersecurity
 
 This video demonstrates whether or not the removed video on YouTube can render from odyssee.
 ### Video
-
+[Watch the full demonstration on Odysee](https://odysee.com/testuploadbuilds:9?r=Di6dY8KVRr6gkFjZVM2DQqTzPmhC6AVs)
 <div style="position:relative;padding-top:56.25%;">
   <iframe
     src="https://odysee.com/testuploadbuilds:9?r=Di6dY8KVRr6gkFjZVM2DQqTzPmhC6AVs"
