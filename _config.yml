@@ -1,6 +1,6 @@
 title: "Red Team Research Blog"
-description: "Defensive and offensive cybersecurity research, red teaming insights, and lab-based demonstrations."
+description: "Lab-based red teaming and cybersecurity research"
 baseurl: ""
-url: "https://tanc7.github.io/crackamphetamine.github.io/"
+url: "https://tanc7.github.io"
 theme: minima
 markdown: kramdown
