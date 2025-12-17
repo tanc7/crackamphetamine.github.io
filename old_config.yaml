@@ -3,7 +3,5 @@ description: "Lab-based red teaming and cybersecurity research"
 
 url: "https://tanc7.github.io"
 baseurl: "/crackamphetamine.github.io"
-
 theme: minima
 markdown: kramdown
-
