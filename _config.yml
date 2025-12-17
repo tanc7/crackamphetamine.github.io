@@ -2,6 +2,7 @@ title: "Red Team Research Blog"
 description: "Lab-based red teaming and cybersecurity research"
 
 url: "https://tanc7.github.io"
-baseurl: "/crackamphetamine.github.io"
+baseurl: ""   # MUST be empty for a user site
+
 theme: minima
 markdown: kramdown
